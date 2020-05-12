@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TGS-intern/static/css/main.de39baa2.chunk.css",
+    "main.js": "/TGS-intern/static/js/main.c6932812.chunk.js",
+    "main.js.map": "/TGS-intern/static/js/main.c6932812.chunk.js.map",
+    "runtime-main.js": "/TGS-intern/static/js/runtime-main.cb77bf03.js",
+    "runtime-main.js.map": "/TGS-intern/static/js/runtime-main.cb77bf03.js.map",
+    "static/js/2.c46f2fbc.chunk.js": "/TGS-intern/static/js/2.c46f2fbc.chunk.js",
+    "static/js/2.c46f2fbc.chunk.js.map": "/TGS-intern/static/js/2.c46f2fbc.chunk.js.map",
+    "index.html": "/TGS-intern/index.html",
+    "precache-manifest.1386a08932add73197d92a947ece5068.js": "/TGS-intern/precache-manifest.1386a08932add73197d92a947ece5068.js",
+    "service-worker.js": "/TGS-intern/service-worker.js",
+    "static/css/main.de39baa2.chunk.css.map": "/TGS-intern/static/css/main.de39baa2.chunk.css.map",
+    "static/js/2.c46f2fbc.chunk.js.LICENSE.txt": "/TGS-intern/static/js/2.c46f2fbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb77bf03.js",
+    "static/js/2.c46f2fbc.chunk.js",
+    "static/css/main.de39baa2.chunk.css",
+    "static/js/main.c6932812.chunk.js"
+  ]
+}
